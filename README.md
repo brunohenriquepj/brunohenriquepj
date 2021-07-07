@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning the Java/Kotlin World!
 
-- 🔭 My projects: [#java](https://github.com/brunohenriquepj?tab=repositories&q=%23java) [#python](https://github.com/brunohenriquepj?tab=repositories&q=%23python) [#apresentações](https://github.com/brunohenriquepj?tab=repositories&q=%23presentations) [#docker](https://github.com/brunohenriquepj?tab=repositories&q=%23docker) [#iot](https://github.com/brunohenriquepj?tab=repositories&q=%23iot) [#kotlin](https://github.com/brunohenriquepj?tab=repositories&q=%23kotlin)
+- 🔭 My projects: [#kotlin](https://github.com/brunohenriquepj?tab=repositories&q=%23kotlin) [#java](https://github.com/brunohenriquepj?tab=repositories&q=%23java) [#python](https://github.com/brunohenriquepj?tab=repositories&q=%23python) [#apresentações](https://github.com/brunohenriquepj?tab=repositories&q=%23presentations) [#docker](https://github.com/brunohenriquepj?tab=repositories&q=%23docker) [#iot](https://github.com/brunohenriquepj?tab=repositories&q=%23iot)
 
 <!--
 **brunohenriquepj/brunohenriquepj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
