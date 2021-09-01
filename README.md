@@ -5,7 +5,8 @@
 
 - 🔭 My projects: [#kotlin](https://github.com/brunohenriquepj?tab=repositories&q=%23kotlin) [#java](https://github.com/brunohenriquepj?tab=repositories&q=%23java) [#python](https://github.com/brunohenriquepj?tab=repositories&q=%23python) [#apresentações](https://github.com/brunohenriquepj?tab=repositories&q=%23presentations) [#docker](https://github.com/brunohenriquepj?tab=repositories&q=%23docker) [#iot](https://github.com/brunohenriquepj?tab=repositories&q=%23iot)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohenriquepj&hide=javascript,html,css)](https://github.com/brunohenriquepj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohenriquepj&hide=javascript,html,css&layout=compact)](https://github.com/brunohenriquepj/github-readme-stats)
+
 <!--
 **brunohenriquepj/brunohenriquepj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
